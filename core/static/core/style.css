@@ -1,0 +1,15 @@
+html, body{
+	background-color: #0a192f;
+}
+
+.info{
+	margin-top: 25vh;
+	margin-left: 30%;
+	color: rgb(204, 214, 246);
+
+}
+
+.info a{
+	color: rgb(100, 255, 218);
+	text-decoration: none;
+}
